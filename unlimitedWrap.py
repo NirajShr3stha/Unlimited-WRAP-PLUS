@@ -69,7 +69,7 @@ while True:
 		g = g + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("                  WARP-PLUS-CLOUDFLARE (script)" + " By ALIILAPRO")
+		print("                  WARP-PLUS-CLOUDFLARE (script)" + " By XDWOLF")
 		print("")
 		animation = ["[■□□□□□□□□□] 10%","[■■□□□□□□□□] 20%", "[■■■□□□□□□□] 30%", "[■■■■□□□□□□] 40%", "[■■■■■□□□□□] 50%", "[■■■■■■□□□□] 60%", "[■■■■■■■□□□] 70%", "[■■■■■■■■□□] 80%", "[■■■■■■■■■□] 90%", "[■■■■■■■■■■] 100%"] 
 		for i in range(len(animation)):
